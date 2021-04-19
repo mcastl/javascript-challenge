@@ -1,4 +1,4 @@
-# javascript-challenge
+# JavaScript Challenge
 
 > This project aims to create a table dynamically based upon a UFO sightseeing dataset to allow users to filter the table data for specific values.
 
