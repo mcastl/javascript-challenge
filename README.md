@@ -3,8 +3,8 @@
 > This project aims to create a table dynamically based upon a UFO sightseeing dataset to allow users to filter the table data for specific values.
 
 ## Table of contents
-* General information(#General info)
-* Screenshots(#Screenshots)
+* [General info](#General info)
+* [Screenshots](#Screenshots)
 * [UFO level 1]( https://github.com/mcastl/javascript-challenge/tree/main/UFO-level-1)
 * [UFO level 2]( https://github.com/mcastl/javascript-challenge/tree/main/UFO-level-2)
 * [Technologies](#technologies)
