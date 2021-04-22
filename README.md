@@ -28,7 +28,9 @@ This project is divided into the two following levels:
 
 
 ## Screenshots
-![Example screenshot](./img/screenshot.png)
+![Header](./screenshots/level1.jpg)
+![Level 1](./screenshots/level2.jpg)
+![Level 2](./screenshots/level2.png)
 
 ## Technologies
 * Tech 1 - JavaScript
