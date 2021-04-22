@@ -28,9 +28,9 @@ This project is divided into the two following levels:
 
 
 ## Screenshots
-![](level1.jpg)
-![Level 1](./screenshots/level2.jpg)
-![Level 2](./screenshots/level2.png)
+![](Level1.jpg)
+![](Filter.jpg)
+![](Level2.png)
 
 ## Technologies
 * Tech 1 - JavaScript
