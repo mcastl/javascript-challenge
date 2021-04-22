@@ -27,7 +27,7 @@ This project is divided into the two following levels:
   5. `shape`
 
 ## Screenshots
-![](Level1.jpg)
+![](Level1.JPG)
 ![](Filter.jpg)
 ![](Level2.png)
 
