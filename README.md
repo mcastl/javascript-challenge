@@ -26,7 +26,6 @@ This project is divided into the two following levels:
   4. `country`
   5. `shape`
 
-
 ## Screenshots
 ![](Level1.jpg)
 ![](Filter.jpg)
