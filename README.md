@@ -27,8 +27,11 @@ This project is divided into the two following levels:
   5. `shape`
 
 ## Screenshots
+### Header
 ![](Level1.JPG)
-![](Filter.jpg)
+### Level 1: Automatic Table and Date Search
+![](Filter.JPG)
+### Level 2: Multiple Search Categories 
 ![](Level2.png)
 
 ## Technologies
