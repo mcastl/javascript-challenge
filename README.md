@@ -32,7 +32,7 @@ This project is divided into the two following levels:
 ### Level 1: Automatic Table and Date Search
 ![](Filter.JPG)
 ### Level 2: Multiple Search Categories 
-![](Level2.png)
+![](level2.png)
 
 ## Technologies
 * Tech 1 - JavaScript
